@@ -9,7 +9,7 @@ Este é o projeto final da trilha "The Legend of Python" da plataforma **Codéde
 ###  Descrição
 O projeto marca a conclusão da jornada de Python na Codédex. Mesmo já tendo experiência prévia com a linguagem em outros projetos acadêmicos, utilizei este desafio para revisar conceitos, eliminar lacunas e consolidar uma base extremamente sólida para o desenvolvimento de soluções robustas no ecossistema de Backend.
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 * **Python 3**: Linguagem principal para o desenvolvimento da lógica.
 * **TKinter**: Biblioteca em Python para interface gráfica.
   
