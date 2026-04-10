@@ -42,6 +42,6 @@ This is the final project for the "The Legend of Python" track on the **Codédex
 1. Clone the repository / Clone o repositório: 
    `git clone https://github.com/isjustjefferson/Final-Project-Python-Codedex.git`
 2. Run the script / Execute o script:
-   `python script.py` (ou o nome do arquivo principal do seu projeto)
+   `gui.py` 
 
 ---
